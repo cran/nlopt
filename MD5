@@ -1,0 +1,17 @@
+6b7eea3fc13bce2e86123698bb91b392 *DESCRIPTION
+259e779aa4c7201c45d4c86f8034ca99 *NAMESPACE
+8ba112201904fad21f9a1695b627b225 *NEWS.md
+1ecef7d7c92cb288d72ac7794d7a91e0 *R/batteries.R
+d52ec2b13d7b3500cbfe2d80e96bbf5c *R/optimize.R
+f82a04b3891670db402f4efb69b47942 *R/solfile.R
+c8ef39970a7059a040285f825852245c *R/solvers.R
+e564d815afb94d9e71614ff2a279efba *README.md
+7f515aefd437b7b350e1fd063bb9816d *man/check_solver.Rd
+a312ee8c5f41dc765d3dd94384119b39 *man/example_sol_file.Rd
+5b71bd6f79ea3d077da92e355873c2ce *man/get_available_options.Rd
+34db341b2c094499cd230d30fb0ac687 *man/get_minlplib_problem.Rd
+049e166fde7cc429d819600440ed3788 *man/optimize.Rd
+8f1f42fe78cb4e4a754feb3333450af1 *man/print_available_options.Rd
+a808037e2730af344ab513bc52331f64 *man/print_help.Rd
+252425a1183aa9f0e7c09872dbf81015 *man/print_solver_version.Rd
+9e5c9e133bc76dc09846201e019e7e6c *man/read_sol_file.Rd
